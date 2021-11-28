@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/peeyush-k-madhavan/Blog-Website-in-Node.js/issues"
   },
-  "homepage": "https://github.com/peeyush-k-madhavan/Blog-Website-in-Node.js#readme"
+  "homepage": "https://github.com/peeyush-k-madhavan/Blog-Website-in-Node.js#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  }
 }
